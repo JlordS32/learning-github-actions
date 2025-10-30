@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+GitHub Actions make it easy to automate all your software workflows.
+Now with CI/CD, you can build, test, and deploy your code right from GitHub.
+This is a test file for analyzing vowel frequencies.
